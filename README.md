@@ -29,5 +29,7 @@ Este repositório contém um projeto de reconhecimento de texto em imagens utili
 - Confianças: 0.652, 0.666, 0.731
 
 ## Prints
-![Imagem 1](inputs/imagem1.jpg)
-![Imagem 2](inputs/imagem2.jpg)
+![Imagem 1](inputs/imagem1.jpg)![imagem1](https://github.com/user-attachments/assets/145d8d23-6993-42fe-af0b-612112b6f6ff)
+
+![Imagem 2](inputs/imagem2.jpg)![imagem2](https://github.com/user-attachments/assets/80b784e3-b1c4-4ead-96d3-4ee15ccf0bce)
+
